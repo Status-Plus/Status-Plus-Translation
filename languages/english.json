@@ -1,0 +1,10 @@
+{
+  "outageStrings": {
+    "upString1": " is back up!",
+    "upString2": " has improved performance.",
+    "degradedString1": " is experiencing issues.",
+    "degradedString2": " has degraded performance.",
+    "downString1": " is down.",
+    "downString2": " is experiencing an outage."
+  }
+}
