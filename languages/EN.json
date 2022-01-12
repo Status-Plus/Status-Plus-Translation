@@ -1,19 +1,28 @@
 {
   "outageStrings": {
-    "upString1": " is back up!",
-    "upString2": " has improved performance.",
-    "degradedString1": " is experiencing issues.",
-    "degradedString2": " has degraded performance.",
-    "downString1": " is down.",
-    "downString2": " is experiencing an outage."
+    "upString1": "is back up!",
+    "upString2": "has improved performance.",
+    "degradedString1": "is experiencing issues.",
+    "degradedString2": "has degraded performance.",
+    "downString1": "is down.",
+    "downString2": "is experiencing an outage."
   },
   "fastFlagStrings": {
-    "addedString": " has been added!",
-    "modifiedString": " has been modified!",
-    "deletedString": " has been deleted!",
+    "addedString": "has been added!",
+    "modifiedString": "has been modified!",
+    "deletedString": "has been deleted!",
     "oldValue": "Old Value:",
     "newValue": "New Value:",
     "value": "Value:",
     "type": "Flag Type:"
+  },
+  "commandStrings": {
+    "status":{
+      "currentlyUp": "is currently **UP**! ",
+      "currentlyDegraded": "is currently **DEGRADED**! ",
+      "currentDown": "is currently **DOWN**! ",
+      "averageResponseTime": "Average response time: ",
+      "responseTime": "Response time: "
+    }
   }
 }
