@@ -6,5 +6,13 @@
     "degradedString2": " has degraded performance.",
     "downString1": " is down.",
     "downString2": " is experiencing an outage."
-  }
+  },
+  "fastFlagStrings": {
+    "addedString": " has been added!",
+    "modifiedString": " has been modified!",
+    "deletedString": " has been deleted!",
+    "oldValue": "Old Value:",
+    "newValue": "New Value:",
+    "value": "Value":,
+    "type": "Flag Type:"
 }
