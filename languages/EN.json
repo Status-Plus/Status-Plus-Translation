@@ -16,13 +16,4 @@
     "value": "Value:",
     "type": "Flag Type:"
   },
-  "commandStrings": {
-    "status":{
-      "currentlyUp": "is currently **UP**!",
-      "currentlyDegraded": "is currently **DEGRADED**!",
-      "currentDown": "is currently **DOWN**!",
-      "averageResponseTime": "Average response time:",
-      "responseTime": "Response time:"
-    }
-  }
 }
