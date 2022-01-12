@@ -1,0 +1,19 @@
+{
+  "outageStrings": {
+    "upString1": " ha vuelto!",
+    "upString2": " ha mejorado su rendimiento.",
+    "degradedString1": " está experimentando fallos.",
+    "degradedString2": " ha degradado su rendimiento.",
+    "downString1": " está caída.",
+    "downString2": " está experimentando un corte."
+  },
+  "fastFlagStrings": {
+    "addedString": " ha sido añadido!",
+    "modifiedString": " ha sido modificado!",
+    "deletedString": " ha sido removido!",
+    "oldValue": "Valor anterior:",
+    "newValue": "Valor nuevo:",
+    "value": "Valor:",
+    "type": "Tipo de FFlag:"
+  }
+}
