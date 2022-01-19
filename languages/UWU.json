@@ -1,0 +1,18 @@
+{
+  "outageStrings": {
+    "upString1": "is back up! uwu!",
+    "upString2": "has impwoved perfwowmwance.",
+    "degradedString1": "is expewiencing issues. owo",
+    "degradedString2": "has degwaded perfwowmwance.",
+    "downString1": "is down. uwu",
+    "downString2": "is expewiencing an outwage."
+  },
+  "fastFlagStrings": {
+    "addedString": "has bween added!",
+    "modifiedString": "has bween modified!",
+    "deletedString": "has bween deweted!",
+    "oldValue": "Old Vawue:",
+    "newValue": "New Vawue:",
+    "value": "Vawue:",
+    "type": "Fwag Type:"
+  }
