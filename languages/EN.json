@@ -15,5 +15,8 @@
     "newValue": "New Value:",
     "value": "Value:",
     "type": "Flag Type:"
+  },
+  "metaStrings": {
+    "name": "English"
   }
 }

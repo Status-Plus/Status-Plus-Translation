@@ -15,5 +15,8 @@
     "newValue": "Valor nou:",
     "value": "Valor:",
     "type": "Tipus de Flag:"
+  },
+  "metaStrings": {
+    "name": "Catalan"
   }
 }

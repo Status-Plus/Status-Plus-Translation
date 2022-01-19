@@ -15,5 +15,8 @@
     "newValue": "更改之后的值:",
     "value": "值:",
     "type": "快速标志种类:"
+  },
+  "metaStrings": {
+    "name": "Chinese"
   }
 }
