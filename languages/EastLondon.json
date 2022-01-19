@@ -1,0 +1,23 @@
+{
+    "outageStrings": {
+      "upString1": "bruv its back up yeah",
+      "upString2": "swear down no joke no cap yeah, performance is through the roof right now fam",
+      "degradedString1": "is a fed fam, always got issues",
+      "degradedString2": "has smoked a 3.5, he gonna be havin' some issues. He didn't even share wit da mandem",
+      "downString1": "is fucked bruv",
+      "downString2": "is dead, we just sheff'd em up fam"
+    },
+    "fastFlagStrings": {
+      "addedString": "got added yeah",
+      "modifiedString": "got changed bruv",
+      "deletedString": "got deleted my drilla",
+      "oldValue": "Old Value:",
+      "newValue": "New Value:",
+      "value": "Value:",
+      "type": "Flag Type:"
+    },
+    "metaStrings": {
+      "name": "EastLondon"
+    }
+  }
+  
