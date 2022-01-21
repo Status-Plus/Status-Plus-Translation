@@ -1,7 +1,7 @@
 {
   "outageStrings": {
     "upString1": "sekarang sudah kembali!",
-    "upString2": "sekarang telah meningkatkan perfoma.",
+    "upString2": "telah meningkatkan perfoma.",
     "degradedString1": "sedang mengalami masalah.",
     "degradedString2": "sedang mengalami degradasi perfoma.",
     "downString1": "sedang mati.",
