@@ -5,16 +5,22 @@
     "degradedString1": "遇到了一些技术性问题。",
     "degradedString2": "的性能降低了。",
     "downString1": "遇到了问题，现停止运行。",
-    "downString2": "暂时不可用。"
+    "downString2": "暂时不可用。",
+    "responseTime": "延迟",
+    "httpCode": "HTTP 状态码",
+    "incidentId": "事故编号",
+    "machineId": "服务器编号",
+    "responseMessage": "返回信息",
+    "errorMessage": "错误码"
   },
   "fastFlagStrings": {
     "addedString": "已被添加！",
     "modifiedString": "已被更改！",
     "deletedString": "已被删除。",
-    "oldValue": "更改之前的值:",
-    "newValue": "更改之后的值:",
+    "oldValue": "旧值:",
+    "newValue": "新值:",
     "value": "值:",
-    "type": "快速标志种类:"
+    "type": "标志类型:"
   },
   "metaStrings": {
     "name": "Chinese"
