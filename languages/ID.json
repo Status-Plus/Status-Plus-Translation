@@ -1,0 +1,28 @@
+{
+  "outageStrings": {
+    "upString1": "sekarang sudah kembali!",
+    "upString2": "telah meningkatkan perfoma.",
+    "degradedString1": "sedang mengalami masalah.",
+    "degradedString2": "sedang mengalami degradasi perfoma.",
+    "downString1": "sedang mati.",
+    "downString2": "sedang mengalami pemadaman.",
+    "responseTime": "Waktu tanggapan:",
+    "httpCode": "Kode status",
+    "incidentId": "ID Kejadian",
+    "machineId": "ID Mesin Roblox",
+    "responseMessage": "Pesan Tanggapan",
+    "errorMessage": "Pesan Error"
+  },
+  "fastFlagStrings": {
+    "addedString": "telah ditambah!",
+    "modifiedString": "telah dimodifikasi!",
+    "deletedString": "telah dihapus!",
+    "oldValue": "Isi Lama:",
+    "newValue": "Isi Baru:",
+    "value": "Isi:",
+    "type": "Tipe Flag:"
+  },
+  "metaStrings": {
+    "name": "Indonesian"
+  }
+}
