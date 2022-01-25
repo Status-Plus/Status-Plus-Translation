@@ -1,0 +1,23 @@
+{
+  "outageStrings": {
+    "upString1": "meow meow meow",
+    "upString2": "meowmeow",
+    "degradedString1": "meow meow meow meow",
+    "degradedString2": "meow meow meow ",
+    "downString1": "meow ",
+    "downString2": "meow meow meow meow meow meow "
+
+  },
+  "fastFlagStrings": {
+    "addedString": "meow meowmeow ",
+    "modifiedString": "meow meow meow meow meowwwww",
+    "deletedString": "meowwww",
+    "oldValue": "meow w",
+    "newValue": "meowwwwmeow  ",
+    "value": "meowmeow meow ww ",
+    "type": "meow meow meow meow meow meow meoww"
+  },
+  "metaStrings": {
+    "name": "meow meow meow meow meow meow meow meow meow meow meow "
+  }
+}
