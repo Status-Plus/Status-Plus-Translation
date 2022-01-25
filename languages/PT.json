@@ -5,7 +5,13 @@
     "degradedString1": "está experienciando problemas.",
     "degradedString2": "está com desempenho degradado.",
     "downString1": "caiu.",
-    "downString2": "está experienciando uma queda."
+    "downString2": "está experienciando uma queda.",
+    "responseTime": "Tempo de Resposta:",
+    "httpCode": "Código de Status",
+    "incidentId": "ID do Incidente",
+    "machineId": "ID da Máquina do Roblox",
+    "responseMessage": "Mensagem de Resposta",
+    "errorMessage": "Mensagem de Erro"
   },
   "fastFlagStrings": {
     "addedString": "foi adicionado!",
