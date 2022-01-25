@@ -5,7 +5,13 @@
     "degradedString1": "is experiencing issues.",
     "degradedString2": "has degraded performance.",
     "downString1": "is down.",
-    "downString2": "is experiencing an outage."
+    "downString2": "is experiencing an outage.",
+    "responseTime": "Response Time:",
+    "httpCode": "Status Code",
+    "incidentId": "Incident ID",
+    "machineId": "Roblox Machine ID",
+    "responseMessage": "Response Message",
+    "errorMessage": "Error Message"
   },
   "fastFlagStrings": {
     "addedString": "has been added!",
