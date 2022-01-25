@@ -9,8 +9,8 @@
     "responseTime": "延时",
     "httpCode": "HTTP 状态码",
     "incidentId": "事故编号",
-    "machineId": "Roblox Machine ID",
-    "responseMessage": "Response Message",
+    "machineId": "计算机编号",
+    "responseMessage": "返回信息",
     "errorMessage": "Error Message"
   },
   "fastFlagStrings": {
