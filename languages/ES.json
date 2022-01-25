@@ -6,7 +6,7 @@
     "degradedString2": "ha degradado su rendimiento.",
     "downString1": "está caída.",
     "downString2": "está experimentando un corte.",
-    "responseTime": "Tiempo de respuesta:",
+    "responseTime": "Tiempo de respuesta",
     "httpCode": "Código de estado",
     "incidentId": "Número de incidente",
     "machineId": "Código de la máquina de Roblox",
