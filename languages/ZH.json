@@ -11,7 +11,7 @@
     "incidentId": "事故编号",
     "machineId": "计算机编号",
     "responseMessage": "返回信息",
-    "errorMessage": "Error Message"
+    "errorMessage": "错误码"
   },
   "fastFlagStrings": {
     "addedString": "已被添加！",
