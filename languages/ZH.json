@@ -7,7 +7,7 @@
     "downString1": "遇到了问题，现停止运行。",
     "downString2": "暂时不可用。",
     "responseTime": "延时",
-    "httpCode": "Status Code",
+    "httpCode": "状态码",
     "incidentId": "Incident ID",
     "machineId": "Roblox Machine ID",
     "responseMessage": "Response Message",
