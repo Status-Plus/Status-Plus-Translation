@@ -17,8 +17,8 @@
     "addedString": "已被添加！",
     "modifiedString": "已被更改！",
     "deletedString": "已被删除。",
-    "oldValue": "更改之前的值:",
-    "newValue": "更改之后的值:",
+    "oldValue": "旧值:",
+    "newValue": "新值:",
     "value": "值:",
     "type": "标志类型:"
   },
