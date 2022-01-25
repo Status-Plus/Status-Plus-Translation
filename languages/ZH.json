@@ -8,7 +8,7 @@
     "downString2": "暂时不可用。",
     "responseTime": "延时",
     "httpCode": "HTTP 状态码",
-    "incidentId": "Incident ID",
+    "incidentId": "事故编号",
     "machineId": "Roblox Machine ID",
     "responseMessage": "Response Message",
     "errorMessage": "Error Message"
