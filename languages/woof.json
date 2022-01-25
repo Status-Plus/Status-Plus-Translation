@@ -1,0 +1,23 @@
+{
+  "outageStrings": {
+    "upString1": "woof woof ",
+    "upString2": "woof woof woof woof woof ",
+    "degradedString1": "woof ",
+    "degradedString2": "woof woof woof woof woof woof ",
+    "downString1": "woofwoof woof ",
+    "downString2": "woof woof woof woof woof woof woof woof woof woof woof "
+
+  },
+  "fastFlagStrings": {
+    "addedString": "woof woof woof woof ",
+    "modifiedString": "woof woof woof woof woof woof woof woof ",
+    "deletedString": "woof woof woof woof ",
+    "oldValue": "woof woof woof woof woof woof woof woof woof ",
+    "newValue": "woof woof woof ",
+    "value": "woof woof woof woof woof woof woof ",
+    "type": "swoof woof woof :"
+  },
+  "metaStrings": {
+    "name": "woof woof woof woof woof woof woof woof woof "
+  }
+}
