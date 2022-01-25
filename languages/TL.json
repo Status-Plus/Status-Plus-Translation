@@ -1,0 +1,22 @@
+{
+  "outageStrings": {
+    "upString1": "ay gumagana ng muli!",
+    "upString2": "napabuti ang koneksyon.",
+    "degradedString1": "is experiencing issues.",
+    "degradedString2": "ay nakakaranas ng pag bagal ng koneksyon.",
+    "downString1": "ay hindi gumagana.",
+    "downString2": "ay nakakaranas ng kawalan ng koneksyon."
+  },
+  "fastFlagStrings": {
+    "addedString": "ay naidagdag!",
+    "modifiedString": "ay nagbago!",
+    "deletedString": "ay nabura!",
+    "oldValue": "Lumang Halaga:",
+    "newValue": "Bagong Halaga:",
+    "value": "Halaga:",
+    "type": "Uri:"
+  }, 
+  "metaStrings": {
+    "name": "Tagalog"
+  }
+}

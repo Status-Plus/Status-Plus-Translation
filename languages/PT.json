@@ -1,0 +1,28 @@
+{
+  "outageStrings": {
+    "upString1": "voltou!",
+    "upString2": "está com desempenho melhorado.",
+    "degradedString1": "está experienciando problemas.",
+    "degradedString2": "está com desempenho degradado.",
+    "downString1": "caiu.",
+    "downString2": "está experienciando uma queda.",
+    "responseTime": "Tempo de Resposta",
+    "httpCode": "Código de Status",
+    "incidentId": "ID do Incidente",
+    "machineId": "ID da Máquina do Roblox",
+    "responseMessage": "Mensagem de Resposta",
+    "errorMessage": "Mensagem de Erro"
+  },
+  "fastFlagStrings": {
+    "addedString": "foi adicionado!",
+    "modifiedString": "foi modificado!",
+    "deletedString": "foi deletado!",
+    "oldValue": "Valor Antigo:",
+    "newValue": "Valor Novo:",
+    "value": "Valor:",
+    "type": "Tipo de Flag:"
+  },
+  "metaStrings": {
+    "name": "Portuguese"
+  }
+}
