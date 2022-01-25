@@ -1,0 +1,23 @@
+{
+  "outageStrings": {
+    "upString1": "moo moo moooo",
+    "upString2": "mooooo moo mooo moo",
+    "degradedString1": "moo moo",
+    "degradedString2": "moooooooooooooooooooooooooooooo",
+    "downString1": "moo moo moo moo moooo",
+    "downString2": "moo mooo"
+
+  },
+  "fastFlagStrings": {
+    "addedString": "mooooooo",
+    "modifiedString": "mooooo mooo",
+    "deletedString": "mooo mooooooooo",
+    "oldValue": "moo mooo moo",
+    "newValue": "moo moo mooo mooo mooo moooo",
+    "value": "mooo moooo moo",
+    "type": "moo"
+  },
+  "metaStrings": {
+    "name": "moo moo moo mooo moooooo"
+  }
+}
