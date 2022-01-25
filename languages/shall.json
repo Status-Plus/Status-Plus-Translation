@@ -1,0 +1,23 @@
+{
+  "outageStrings": {
+    "upString1": "shall return towarth normal state",
+    "upString2": "shall experience such wrath of improved performanceth",
+    "degradedString1": "shall experience such wrath of vital issueth.",
+    "degradedString2": "shall experience such wrath of degraded performanceth.",
+    "downString1": "shall experience such downth.",
+    "downString2": "shall experience such outage thy has commited."
+   
+  },
+  "fastFlagStrings": {
+    "addedString": "shall be added by thy!",
+    "modifiedString": "shall be modified by thy!",
+    "deletedString": "shall be deleted by thy!",
+    "oldValue": "Thy Old Value:",
+    "newValue": "Thy New Value:",
+    "value": "shall thy value:",
+    "type": "shall flag thy type:"
+  },
+  "metaStrings": {
+    "name": "shall language be understood by such worthy"
+  }
+}
