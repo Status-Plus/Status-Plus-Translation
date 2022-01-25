@@ -5,7 +5,13 @@
     "degradedString1": "遇到了一些技术性问题。",
     "degradedString2": "的性能降低了。",
     "downString1": "遇到了问题，现停止运行。",
-    "downString2": "暂时不可用。"
+    "downString2": "暂时不可用。",
+    "responseTime": "延时",
+    "httpCode": "Status Code",
+    "incidentId": "Incident ID",
+    "machineId": "Roblox Machine ID",
+    "responseMessage": "Response Message",
+    "errorMessage": "Error Message"
   },
   "fastFlagStrings": {
     "addedString": "已被添加！",
