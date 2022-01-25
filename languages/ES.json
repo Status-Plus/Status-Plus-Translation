@@ -1,16 +1,22 @@
 {
   "outageStrings": {
-    "upString1": " ha vuelto!",
-    "upString2": " ha mejorado su rendimiento.",
-    "degradedString1": " está experimentando fallos.",
-    "degradedString2": " ha degradado su rendimiento.",
-    "downString1": " está caída.",
-    "downString2": " está experimentando un corte."
+    "upString1": "ha huelto!",
+    "upString2": "ha mejorado su rendimiento.",
+    "degradedString1": "está experimentando fallos.",
+    "degradedString2": "ha degradado su rendimiento.",
+    "downString1": "está caída.",
+    "downString2": "está experimentando un corte.",
+    "responseTime": "Tiempo de respuesta:",
+    "httpCode": "Código de estado",
+    "incidentId": "Número de incidente",
+    "machineId": "Código de la máquina de Roblox",
+    "responseMessage": "Mensaje de respuesta",
+    "errorMessage": "Mensaje de error"
   },
   "fastFlagStrings": {
-    "addedString": " ha sido añadido!",
-    "modifiedString": " ha sido modificado!",
-    "deletedString": " ha sido removido!",
+    "addedString": "ha sido agregada!",
+    "modifiedString": "ha sido modificada!",
+    "deletedString": "ha sido removida!",
     "oldValue": "Valor anterior:",
     "newValue": "Valor nuevo:",
     "value": "Valor:",
