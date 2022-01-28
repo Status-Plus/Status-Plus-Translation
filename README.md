@@ -10,8 +10,13 @@ If you wish to contribute to this, please do make sure you actually understand t
 
 # Credits
 @IJustDavi           - Spanish Translations
+
 @totoyzx             - Tagalog Translations
+
 @zapacni             - Catalan Translations
+
 @GnomeDevs & @7kayoh - Chinese Translations
+
 @MatadorProBr        - Portuguese Translations
+
 @RealEthanPlayzDev   - Indonesian Translations
