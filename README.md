@@ -9,9 +9,14 @@ To start, please fork the repo, enter the folder, and create a JSON file. For id
 If you wish to contribute to this, please do make sure you actually understand the language you are adding/modifying, and not using a translator.
 
 # Credits
-Spanish Translations -         @IJustDavi
-Tagalog Translations -         @totoyzx
-Catalan Translations -         @zapacni
-Chinese Translations -         @GnomeDevs & @7kayoh
+Spanish Translations -         @IJustDavi 
+
+Tagalog Translations -         @totoyzx 
+
+Catalan Translations -         @zapacni 
+
+Chinese Translations -         @GnomeDevs & @7kayoh 
+
 Portuguese Translations -      @MatadorProBr 
-Indonesian Translations -      @RealEthanPlayzDev
+
+Indonesian Translations -      @RealEthanPlayzDev 
