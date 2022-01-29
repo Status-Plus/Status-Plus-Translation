@@ -5,7 +5,13 @@
     "degradedString1": "is expewiencing issues. owo",
     "degradedString2": "has degwaded perfwowmwance.",
     "downString1": "is down. uwu",
-    "downString2": "is expewiencing an outwage."
+    "downString2": "is expewiencing an outwage.",
+    "responseTime": "Wespwonse Time",
+    "httpCode": "Statwus Code",
+    "incidentId": "Wincwident ID",
+    "machineId": "Robwox Machwine ID",
+    "responseMessage": "Wespwonse Meswage",
+    "errorMessage": "Ewwor Meswage"
   },
   "fastFlagStrings": {
     "addedString": "has bween added!",
@@ -15,4 +21,8 @@
     "newValue": "New Vawue:",
     "value": "Vawue:",
     "type": "Fwag Type:"
+  },
+  "metaStrings: {
+    "name": "English (Furry)"
   }
+}
