@@ -1,28 +1,28 @@
 {
   "outageStrings": {
-    "upString1": "is back up! uwu!",
-    "upString2": "has impwoved perfwowmwance.",
-    "degradedString1": "is expewiencing issues. owo",
-    "degradedString2": "has degwaded perfwowmwance.",
-    "downString1": "is down. uwu",
-    "downString2": "is expewiencing an outwage.",
-    "responseTime": "Wespwonse Time",
-    "httpCode": "Statwus Code",
-    "incidentId": "Wincwident ID",
-    "machineId": "Robwox Machwine ID",
-    "responseMessage": "Wespwonse Meswage",
-    "errorMessage": "Ewwor Meswage"
+    "upString1": "ish back up!",
+    "upString2": "hash impwoved pewfowmance.",
+    "degradedString1": "ish expewiencing issuesh.",
+    "degradedString2": "hash degwaded pewfowmance.",
+    "downString1": "ish down.",
+    "downString2": "ish expewiencing an outage.",
+    "responseTime": "Wesponse time",
+    "httpCode": "Statush code",
+    "incidentId": "Incident id",
+    "machineId": "Wobwox machine id",
+    "responseMessage": "Wesponse message",
+    "errorMessage": "Ewwow message"
   },
   "fastFlagStrings": {
-    "addedString": "has bween added!",
-    "modifiedString": "has bween modified!",
-    "deletedString": "has bween deweted!",
-    "oldValue": "Old Vawue:",
-    "newValue": "New Vawue:",
+    "addedString": "hash been added!",
+    "modifiedString": "hash been modified!",
+    "deletedString": "hash been deweted!",
+    "oldValue": "Owd vawue:",
+    "newValue": "New vawue:",
     "value": "Vawue:",
-    "type": "Fwag Type:"
+    "type": "Fwag type:"
   },
   "metaStrings": {
-    "name": "English (Furry)"
+    "name": "Engwish"
   }
 }
