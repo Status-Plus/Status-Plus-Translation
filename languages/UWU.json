@@ -1,0 +1,28 @@
+{
+    "outageStrings": {
+        "upString1": "is *whispers to self* back u-up?!?1",
+        "upString2": "has impwuvd pewfowmance. ^w^",
+        "degradedString1": "is *whispers to self* expewiencing issues.",
+        "degradedString2": "*huggles tightly* has degwaded pewfowmance.",
+        "downString1": "is *whispers to self* down.",
+        "downString2": "is *whispers to self* expewiencing an outage.",
+        "responseTime": "Wesponse Time",
+        "httpCode": "Status OwO Code",
+        "incidentId": "Incident UwU ID",
+        "machineId": "Wobwox Machinye ID",
+        "responseMessage": "Wesponse Message",
+        "errorMessage": "Ewwow Message"
+    },
+      "fastFlagStrings": {
+        "addedString": "has been added!",
+        "modifiedString": "has been modified!",
+        "deletedString": "has been deweted!",
+        "oldValue": "Owd Vawue:",
+        "newValue": "New Vawue:",
+        "value": "Vawue:",
+        "type": "*walks away* Fwag *screams* Type:"
+    },
+    "metaStrings": {
+        "name": "Engwish"
+    }
+}
