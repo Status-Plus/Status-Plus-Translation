@@ -1,0 +1,28 @@
+{
+  "outageStrings": {
+    "upString1": "jest z powrotem online!",
+    "upString2": "ma poprawioną wydajność.",
+    "degradedString1": "doświadcza problemy.",
+    "degradedString2": "ma obniżoną wydajność.",
+    "downString1": "jest offline.",
+    "downString2": "ma awarię.",
+    "responseTime": "Czas Odpowiedzi",
+    "httpCode": "Kod Statusu",
+    "incidentId": "Identyfikator incydentu",
+    "machineId": "Identyfikator maszyny Roblox",
+    "responseMessage": "Wiadomość z Odpowiedzią",
+    "errorMessage": "Wiadomość z Błędem"
+  },
+  "fastFlagStrings": {
+    "addedString": "został dodany!",
+    "modifiedString": "został zmodyfikowany!",
+    "deletedString": "został usunięty!",
+    "oldValue": "Stara Wartość:",
+    "newValue": "Nowa Wartość:",
+    "value": "Wartość:",
+    "type": "Typ FFlag:"
+  },
+  "metaStrings": {
+    "name": "Polish"
+  }
+}
