@@ -1,0 +1,28 @@
+{
+  "outageStrings": {
+    "upString1": "est maintenant en fonction!",
+    "upString2": "a une performance amélioré.",
+    "degradedString1": "est en train d'avoir des problèmes.",
+    "degradedString2": "a une performance dégradée.",
+    "downString1": "est éteint .",
+    "downString2": "est en panne.",
+    "responseTime": "Temps pris pour recevoir une réponse",
+    "httpCode": "Code d'état",
+    "incidentId": "Numéro d'identification de l'incident",
+    "machineId": "Code d'identification du machine Roblox",
+    "responseMessage": "Message de réponse",
+    "errorMessage": "Message d'erreur"
+  },
+  "fastFlagStrings": {
+    "addedString": "a été ajouté!",
+    "modifiedString": "a été modifié!",
+    "deletedString": "a été supprimé!",
+    "oldValue": "Ancienne Valeur:",
+    "newValue": "Nouvelle Valeur:",
+    "value": "Valeur:",
+    "type": "Type:"
+  },
+  "metaStrings": {
+    "name": "French"
+  }
+}
