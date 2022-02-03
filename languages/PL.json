@@ -2,7 +2,7 @@
   "outageStrings": {
     "upString1": "jest z powrotem online!",
     "upString2": "ma poprawioną wydajność.",
-    "degradedString1": "doświadcza problemy.",
+    "degradedString1": "zmaga się z problemami.",
     "degradedString2": "ma obniżoną wydajność.",
     "downString1": "jest offline.",
     "downString2": "ma awarię.",
@@ -10,8 +10,8 @@
     "httpCode": "Kod Statusu",
     "incidentId": "Identyfikator incydentu",
     "machineId": "Identyfikator maszyny Roblox",
-    "responseMessage": "Wiadomość z Odpowiedzią",
-    "errorMessage": "Wiadomość z Błędem"
+    "responseMessage": "Odpowiedź Serwera",
+    "errorMessage": "Błąd Serwera"
   },
   "fastFlagStrings": {
     "addedString": "został dodany!",
