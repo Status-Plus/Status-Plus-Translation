@@ -10,7 +10,7 @@ If you wish to contribute to this, please do make sure you actually understand t
 
 # Credits
 
-smart guy -                    @Rythian2277
+smart guy -                    @Rythian2277 
 
 Spanish Translations -         @IJustDavi 
 
