@@ -14,7 +14,7 @@ smart guy -                    @Rythian2277
 
 Spanish Translations -         @IJustDavi 
 
-Tagalog Translations -         @totoyzx 
+Tagalog Translations -         @totoygamingyt 
 
 Catalan Translations -         @zapacni 
 
