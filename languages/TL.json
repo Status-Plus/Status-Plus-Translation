@@ -6,6 +6,12 @@
     "degradedString2": "ay nakakaranas ng pag bagal ng koneksyon.",
     "downString1": "ay hindi gumagana.",
     "downString2": "ay nakakaranas ng kawalan ng koneksyon."
+    "responseTime": "Oras Ng Pagtugon",
+    "httpCode": "Kasalukuyang Katayuan",
+    "incidentId": "Id ng Insidente",
+    "machineId": "Id ng Makina ng Roblox",
+    "responseMessage": "Tugon",
+    "errorMessage": "Nagkaproblema"
   },
   "fastFlagStrings": {
     "addedString": "ay naidagdag!",
@@ -16,6 +22,7 @@
     "value": "Halaga:",
     "type": "Uri:"
   }, 
+  
   "metaStrings": {
     "name": "Tagalog"
   }
