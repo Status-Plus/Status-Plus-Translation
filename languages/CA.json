@@ -4,8 +4,14 @@
     "upString2": "ha millorat el seu rendiment.",
     "degradedString1": "està presentant problemes.",
     "degradedString2": "ha degradat el seu rendiment.",
-    "downString1": "està caigut.",
-    "downString2": "està experimentant un tall."
+    "downString1": "està tallat.",
+    "downString2": "està experimentant un tall",
+    "responseTime": "Temps de la resposta",
+    "httpCode": "Codi d'estatus",
+    "incidentId": "ID de l'incident",
+    "machineId": "ID de màquina de Roblox",
+    "responseMessage": "Missatge de la resposta",
+    "errorMessage": "Missatge de l'error"
   },
   "fastFlagStrings": {
     "addedString": "s'ha afegit!",
