@@ -1,0 +1,28 @@
+{
+  "outageStrings": {
+    "upString1": "กลับมาเเล้ว!",
+    "upString2": "ได้ทําการปรับปรุงประสิทธิภาพ",
+    "degradedString1": "กําลังได้รับการประสบปัญหา",
+    "degradedString2": "กําลังได้รับประสิทธิภาพที่ลดลง",
+    "downString1": "หยุดทํางาน",
+    "downString2": "กําลังได้รับปัญหาการหยุดทํางาน",
+    "responseTime": "เวลาในการตอบสนอง",
+    "httpCode": "รหัสสเตตัส",
+    "incidentId": "รหัสของรหัสเหตุการณ์นี้",
+    "machineId": "Roblox หมายเลขเครื่อง",
+    "responseMessage": "ข้อความที่ตอบสนอง",
+    "errorMessage": "ข้อความที่ผิดพลาด"
+  },
+  "fastFlagStrings": {
+    "addedString": "ได้ทําการเพิ่มเเล้ว!",
+    "modifiedString": "ได้ทําการเเก้ไขเเล้ว!",
+    "deletedString": "ได้ทําการลบเเล้ว!",
+    "oldValue": "ค่าเก่า:",
+    "newValue": "ค่าใหม่:",
+    "value": "ค่า:",
+    "type": "ประเภทการเเก้ไขธง:"
+  },
+  "metaStrings": {
+    "name": "Thailand"
+  }
+}
