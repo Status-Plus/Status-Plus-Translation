@@ -9,7 +9,7 @@
     "responseTime": "เวลาในการตอบสนอง",
     "httpCode": "รหัสสเตตัส",
     "incidentId": "รหัสของรหัสเหตุการณ์นี้",
-    "machineId": "Roblox หมายเลขเครื่อง",
+    "machineId": "หมายเลขเครื่อง",
     "responseMessage": "ข้อความที่ตอบสนอง",
     "errorMessage": "ข้อความที่ผิดพลาด"
   },
