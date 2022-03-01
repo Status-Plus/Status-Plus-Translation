@@ -22,4 +22,4 @@ Chinese Translations -         @GnomeDevs & @7kayoh
 
 Portuguese Translations -      @MatadorProBr 
 
-Indonesian Translations -      @RealEthanPlayzDev 
+Indonesian Translations -      @RealEthanPlayzDev
