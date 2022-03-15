@@ -1,5 +1,8 @@
 {
   "outageStrings": {
+    "defaultUpMessage":"API(s) have gone back up",
+    "defaultDegradedMessage":"API(s) have became degraded",
+    "defaultDownMessage":"API(s) have gone down",
     "upString1": "is back up!",
     "upString2": "has improved performance.",
     "degradedString1": "is experiencing issues.",
@@ -14,6 +17,9 @@
     "errorMessage": "Error Message"
   },
   "fastFlagStrings": {
+    "defaultAddedMessage":"FFlag(s) have been added",
+    "defaultModifiedMessage":"FFlag(s) have been modified",
+    "defaultRemovedMessage":"FFlag(s) have been removed",
     "addedString": "has been added!",
     "modifiedString": "has been modified!",
     "deletedString": "has been deleted!",
