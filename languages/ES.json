@@ -1,6 +1,9 @@
 {
   "outageStrings": {
-    "upString1": "ha huelto!",
+    "defaultUpMessage": "API(s) que ha(n) vuelto",
+    "defaultDegradedMessage": "API(s) que se ha(n) degradado",
+    "defaultDownMessage": "API(s) que se ha(n) caído",
+    "upString1": "ha vuelto!",
     "upString2": "ha mejorado su rendimiento.",
     "degradedString1": "está experimentando fallos.",
     "degradedString2": "ha degradado su rendimiento.",
@@ -8,17 +11,20 @@
     "downString2": "está experimentando un corte.",
     "responseTime": "Tiempo de respuesta",
     "httpCode": "Código de estado",
-    "incidentId": "Número de incidente",
-    "machineId": "Código de la máquina de Roblox",
+    "incidentId": "Código de incidente",
+    "machineId": "ID de la máquina de Roblox",
     "responseMessage": "Mensaje de respuesta",
     "errorMessage": "Mensaje de error"
   },
   "fastFlagStrings": {
+    "defaultAddedMessage": "FFlag(s) que ha(n) sido agregada(s)",
+    "defaultModifiedMessage": "FFlag(s) que ha(n) sido modificada(s)",
+    "defaultRemovedMessage": "FFlag(s) que ha(n) sido removida(s)",
     "addedString": "ha sido agregada!",
     "modifiedString": "ha sido modificada!",
     "deletedString": "ha sido removida!",
-    "oldValue": "Valor anterior:",
-    "newValue": "Valor nuevo:",
+    "oldValue": "Anterior valor:",
+    "newValue": "Nuevo valor:",
     "value": "Valor:",
     "type": "Tipo de FFlag:"
   },
