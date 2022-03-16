@@ -1,10 +1,13 @@
 {
   "outageStrings": {
+    "defaultUpMessage":"Les(un) API sont(est) maintenant en fonction",
+    "defaultDegradedMessage":"Des(un) API ont(a) une performance degradée",
+    "defaultDownMessage":"Des(un) API sont(est) en panne",
     "upString1": "est maintenant en fonction!",
     "upString2": "a une performance amélioré.",
     "degradedString1": "est en train d'avoir des problèmes.",
     "degradedString2": "a une performance dégradée.",
-    "downString1": "est éteint .",
+    "downString1": "est éteint ",
     "downString2": "est en panne.",
     "responseTime": "Temps pris pour recevoir une réponse",
     "httpCode": "Code d'état",
@@ -14,13 +17,16 @@
     "errorMessage": "Message d'erreur"
   },
   "fastFlagStrings": {
+    "defaultAddedMessage":"Des(un) FFlags ont(a) été ajoutée",
+    "defaultModifiedMessage":"Des(un) FFlags ont(a) été modifiée",
+    "defaultRemovedMessage":"Des(un) FFlags ont(a) été supprimée",
     "addedString": "a été ajouté!",
     "modifiedString": "a été modifié!",
     "deletedString": "a été supprimé!",
     "oldValue": "Ancienne Valeur:",
     "newValue": "Nouvelle Valeur:",
     "value": "Valeur:",
-    "type": "Type:"
+    "type": "Type de Flag:"
   },
   "metaStrings": {
     "name": "French"
