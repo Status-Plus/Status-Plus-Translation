@@ -28,6 +28,11 @@
     "value": "Value:",
     "type": "Flag Type:"
   },
+  "versionStrings": {
+    "defaultUpdateString": "A new Roblox version has been detected!",
+    "oldVersion": "Old Version:",
+    "newVersion": "New Version:"
+  },
   "metaStrings": {
     "name": "English"
   }
