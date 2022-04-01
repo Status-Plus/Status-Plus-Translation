@@ -1,5 +1,8 @@
 {
   "outageStrings": {
+    "defaultUpMessage":"A(s) API(s) voltaram a funcionar",
+    "defaultDegradedMessage":"A(s) API(s) ficaram degradada(s)",
+    "defaultDownMessage":"A(s) API(s) caiu/cairam",
     "upString1": "voltou!",
     "upString2": "está com desempenho melhorado.",
     "degradedString1": "está experienciando problemas.",
@@ -21,6 +24,11 @@
     "newValue": "Valor Novo:",
     "value": "Valor:",
     "type": "Tipo de Flag:"
+  },
+  "versionStrings": {
+    "defaultUpdateString": "Uma nova versão do Roblox foi detectada!",
+    "oldVersion": "Versão Antiga:",
+    "newVersion": "Versão Nova:"
   },
   "metaStrings": {
     "name": "Portuguese"
