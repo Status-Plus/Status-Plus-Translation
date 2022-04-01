@@ -17,6 +17,9 @@
     "errorMessage": "Mensagem de Erro"
   },
   "fastFlagStrings": {
+    "defaultAddedMessage":"FFlag(s) foram adicionada(s)",
+    "defaultModifiedMessage":"FFlag(s) foram modificada(s)",
+    "defaultRemovedMessage":"FFlag(s) foram removida(s)",
     "addedString": "foi adicionado!",
     "modifiedString": "foi modificado!",
     "deletedString": "foi deletado!",
