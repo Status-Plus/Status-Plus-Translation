@@ -23,3 +23,5 @@ Chinese Translations -         @GnomeDevs & @7kayoh
 Portuguese Translations -      @MatadorProBr 
 
 Indonesian Translations -      @RealEthanPlayzDev
+
+Polish Translations -          @Maginfyx & @Kiriot22
