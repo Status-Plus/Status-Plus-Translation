@@ -30,7 +30,9 @@
   },
   "versionStrings": {
     "defaultUpdateString": "A new Roblox version has been detected!",
-    "topMessage":"Roblox update detected!",
+    "topMessage1":"Version changed!",
+    "topMessage2":"Client version changed!,
+    "topMessage3":"Bootstrapper version changed!",
     "oldVersion": "Old Version:",
     "newVersion": "New Version:"
   },
