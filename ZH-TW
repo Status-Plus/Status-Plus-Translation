@@ -1,0 +1,28 @@
+{
+  "outageStrings": {
+    "upString1": "已經恢復了正常運行!",
+    "upString2": "的性能得到了改善。",
+    "degradedString1": "遇到了一些技術性問題。",
+    "degradedString2": "的性能降低了。",
+    "downString1": "遇到了問題，已停止运行。",
+    "downString2": "暫時不可用。",
+    "responseTime": "延迟",
+    "httpCode": "HTTP 狀態碼",
+    "incidentId": "事故編號",
+    "machineId": "伺服器編號",
+    "responseMessage": "返回訊息",
+    "errorMessage": "錯誤碼"
+  },
+  "fastFlagStrings": {
+    "addedString": "已被添加！",
+    "modifiedString": "已被更改！",
+    "deletedString": "已被删除。",
+    "oldValue": "舊值:",
+    "newValue": "新值:",
+    "value": "值:",
+    "type": "標誌類型:"
+  },
+  "metaStrings": {
+    "name": "Traditional Chinese"
+  }
+}
