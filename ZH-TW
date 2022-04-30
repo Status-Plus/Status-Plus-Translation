@@ -6,7 +6,7 @@
     "degradedString2": "的性能降低了。",
     "downString1": "遇到了問題，已停止运行。",
     "downString2": "暫時不可用。",
-    "responseTime": "延迟",
+    "responseTime": "延遲",
     "httpCode": "HTTP 狀態碼",
     "incidentId": "事故編號",
     "machineId": "伺服器編號",
