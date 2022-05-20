@@ -1,5 +1,8 @@
 {
   "outageStrings": {
+    "defaultUpMessage":"A(s) API(s) voltaram a funcionar",
+    "defaultDegradedMessage":"A(s) API(s) ficaram degradada(s)",
+    "defaultDownMessage":"A(s) API(s) caiu/cairam",
     "upString1": "voltou!",
     "upString2": "está com desempenho melhorado.",
     "degradedString1": "está experienciando problemas.",
@@ -14,6 +17,9 @@
     "errorMessage": "Mensagem de Erro"
   },
   "fastFlagStrings": {
+    "defaultAddedMessage":"FFlag(s) foram adicionada(s)",
+    "defaultModifiedMessage":"FFlag(s) foram modificada(s)",
+    "defaultRemovedMessage":"FFlag(s) foram removida(s)",
     "addedString": "foi adicionado!",
     "modifiedString": "foi modificado!",
     "deletedString": "foi deletado!",
@@ -21,6 +27,11 @@
     "newValue": "Valor Novo:",
     "value": "Valor:",
     "type": "Tipo de Flag:"
+  },
+  "versionStrings": {
+    "defaultUpdateString": "Uma nova versão do Roblox foi detectada!",
+    "oldVersion": "Versão Antiga:",
+    "newVersion": "Versão Nova:"
   },
   "metaStrings": {
     "name": "Portuguese"
