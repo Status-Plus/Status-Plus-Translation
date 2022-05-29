@@ -1,0 +1,42 @@
+{
+  "outageStrings": {
+    "defaultUpMessage":"API가 복구되었습니다.",
+    "defaultDegradedMessage":"API가 저하되었습니다.",
+    "defaultDownMessage":"API가 터졌습니다.",
+    "upString1": "이(가) 돌아왔습니다!",
+    "upString2": "의 성능이 향상되었습니다.",
+    "degradedString1": "이(가) 힘들어하고 있습니다.",
+    "degradedString2": "의 성능이 저하되었습니다.",
+    "downString1": "이(가) 죽었습니다.",
+    "downString2": "은(는) 정전을 겪고 있습니다.",
+    "responseTime": "반응 시간",
+    "httpCode": "상태 코드",
+    "incidentId": "사건 번호",
+    "machineId": "로블록스 기계 번호",
+    "responseMessage": "대답 메시지",
+    "errorMessage": "오류 메세지"
+  },
+  "fastFlagStrings": {
+    "defaultAddedMessage":"FFlag가 추가되었습니다.",
+    "defaultModifiedMessage":"FFlag가 수정되었습니다.",
+    "defaultRemovedMessage":"FFlag가 삭제되었습니다.",
+    "addedString": "이(가) 추가되었습니다!",
+    "modifiedString": "이(가) 수정되었습니다!",
+    "deletedString": "이(가) 삭제되었습니다!",
+    "oldValue": "옛날 값:",
+    "newValue": "새 값:",
+    "value": "값:",
+    "type": "깃발 종류:"
+  },
+  "versionStrings": {
+    "defaultUpdateString": "새로운 로블록스 버전이 감지되었습니다!!",
+    "topMessage1":"버전이 변경되었습니다!",
+    "topMessage2":"클라이언트 버전이 변경되었습니다!",
+    "topMessage3":"부트스트래퍼 버전이 변경되었습니다!",
+    "oldVersion": "옛날 버전:",
+    "newVersion": "새 버전:"
+  },
+  "metaStrings": {
+    "name": "Korean"
+  }
+}
