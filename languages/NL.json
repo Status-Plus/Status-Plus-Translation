@@ -1,0 +1,42 @@
+{
+  "outageStrings": {
+    "defaultUpMessage":"API(s) doen het weer!",
+    "defaultDegradedMessage":"API(s) ervaren problemen.",
+    "defaultDownMessage":"API(s) liggen eruit.",
+    "upString1": "doet het weer!",
+    "upString2": "verbetert prestaties.",
+    "degradedString1": "ervaart problemen.",
+    "degradedString2": "vermindert prestaties.",
+    "downString1": "ligt eruit.",
+    "downString2": "ervaart een storing.",
+    "responseTime": "Antwoord Tijd",
+    "httpCode": "Status Code",
+    "incidentId": "Incident ID",
+    "machineId": "Roblox Machine ID",
+    "responseMessage": "Antwoord Bericht",
+    "errorMessage": "Fout Bericht"
+  },
+  "fastFlagStrings": {
+    "defaultAddedMessage":"FFlag(s) have been toegevoegd",
+    "defaultModifiedMessage":"FFlag(s) have been aangepast",
+    "defaultRemovedMessage":"FFlag(s) have been verwijderd",
+    "addedString": "was toegevoegd!",
+    "modifiedString": "was aangepast!",
+    "deletedString": "was verwijderd!",
+    "oldValue": "Oude Waarde:",
+    "newValue": "Nieuwe Waarde:",
+    "value": "Waarde:",
+    "type": "Vlag Type:"
+  },
+  "versionStrings": {
+    "defaultUpdateString": "Een nieuwe Roblox versie was gedetecteerd!",
+    "topMessage1":"Versie veranderd!",
+    "topMessage2":"Cliënt versie veranderd!",
+    "topMessage3":"Bootstrapper versie veranderd!",
+    "oldVersion": "Oude Versie:",
+    "newVersion": "Nieuwe Versie:"
+  },
+  "metaStrings": {
+    "name": "Dutch"
+  }
+}
