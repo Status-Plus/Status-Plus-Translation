@@ -17,9 +17,9 @@
     "errorMessage": "Fout Bericht"
   },
   "fastFlagStrings": {
-    "defaultAddedMessage":"FFlag(s) have been toegevoegd",
-    "defaultModifiedMessage":"FFlag(s) have been aangepast",
-    "defaultRemovedMessage":"FFlag(s) have been verwijderd",
+    "defaultAddedMessage":"FFlag(s) zijn toegevoegd",
+    "defaultModifiedMessage":"FFlag(s) zijn aangepast",
+    "defaultRemovedMessage":"FFlag(s) zijn verwijderd",
     "addedString": "was toegevoegd!",
     "modifiedString": "was aangepast!",
     "deletedString": "was verwijderd!",
