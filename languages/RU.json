@@ -1,6 +1,6 @@
 {
   "outageStrings": {
-    "defaultUpMessage":"API Роблокса был восстановлен", 
+    "defaultUpMessage":"API Роблокса был восстановлен",
     "defaultDegradedMessage":"API Роблокса стал ухудшенным",
     "defaultDownMessage":"API Роблокса перестал работать",
     "upString1": "был восстановлен!",
@@ -15,6 +15,18 @@
     "machineId": "Идентификатор Машины Роблокса",
     "responseMessage": "Ответное Сообщение",
     "errorMessage": "Сообщение Ошибки"
+  },
+  "fastFlagStrings": {
+    "defaultAddedMessage":" Быстрый Флаг(и) был добавлен",
+    "defaultModifiedMessage":"Быстрый Флаг(и) был изменен",
+    "defaultRemovedMessage":"Быстрый Флаг(и) был удален",
+    "addedString": "был добавлен!",
+    "modifiedString": "был изменен!",
+    "deletedString": "был удален!",
+    "oldValue": "Старое значение:",
+    "newValue": "Новое значение:",
+    "value": "Значение:",
+    "type": "Тип Флага:"
   },
   "versionStrings": {
     "defaultUpdateString": "Была обнаружена новая версия Роблокса",
