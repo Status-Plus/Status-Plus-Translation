@@ -1,0 +1,30 @@
+{
+  "outageStrings": {
+    "defaultUpMessage":"API Роблокса был восстановлен", 
+    "defaultDegradedMessage":"API Роблокса стал ухудшенным",
+    "defaultDownMessage":"API Роблокса перестал работать",
+    "upString1": "был восстановлен!",
+    "upString2": "улучшил производительность.",
+    "degradedString1": "испытывает проблемы.",
+    "degradedString2": "имеет ухудшенную производительность",
+    "downString1": "не работает",
+    "downString2": "испытывает сбои в работе",
+    "responseTime": "Время Отклика",
+    "httpCode": "Код Статуса",
+    "incidentId": "Идентификатор Инцидента",
+    "machineId": "Идентификатор Машины Роблокса",
+    "responseMessage": "Ответное Сообщение",
+    "errorMessage": "Сообщение Ошибки"
+  },
+  "versionStrings": {
+    "defaultUpdateString": "Была обнаружена новая версия Роблокса",
+    "topMessage1":"Версия изменилась!",
+    "topMessage2":"Версия клиента изменилась!",
+    "topMessage3":"Версия загрузчика изменилась!",
+    "oldVersion": "Старая Версия:",
+    "newVersion": "Новая Версия:"
+  },
+  "metaStrings": {
+    "name": "Russian"
+  }
+}
