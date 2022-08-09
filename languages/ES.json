@@ -28,6 +28,14 @@
     "value": "Valor:",
     "type": "Tipo de FFlag:"
   },
+  "versionStrings": {
+    "defaultUpdateString": "¡Se ha detectado una nueva versión de Roblox!",
+    "topMessage1":"¡La versión cambió!",
+    "topMessage2":"¡La versión del cliente cambió!",
+    "topMessage3":"¡La versión del iniciador cambió!",
+    "oldVersion": "´Versión anterior:",
+    "newVersion": "Nueva versión:"
+  },
   "metaStrings": {
     "name": "Spanish"
   }
