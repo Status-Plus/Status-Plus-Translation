@@ -1,7 +1,7 @@
 {
   "outageStrings": {
     "defaultUpMessage":"API(s) have gone back up",
-    "defaultDegradedMessage":"API(s) have became degraded",
+    "defaultDegradedMessage":"API(s) have degraded",
     "defaultDownMessage":"API(s) have gone down",
     "upString1": "is back up!",
     "upString2": "has improved performance.",
