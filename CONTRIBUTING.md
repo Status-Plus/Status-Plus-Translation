@@ -6,6 +6,6 @@ If you would like to be given the contributor role in the Discord server, please
 
 Examples of string usage:
 
-{api name} {string you input} = Roblox Site ha huelto!
+{api name} {string you input} = Roblox Site ha vuelto!
 
 {fflag name} {string you inut} = CloudEditSendPublishAnalyticsToDiag ha sido agregada!
