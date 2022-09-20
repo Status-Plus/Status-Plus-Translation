@@ -1,5 +1,8 @@
 {
   "outageStrings": {
+    "defaultUpMessage":"Ang API(s) ay nag balik na",
+    "defaultDegradedMessage":"Ang API(s) ay nakakaranas ng pag bagal ng koneksyon.",
+    "defaultDownMessage":"Ang API(s) ay hindi gumagana.",
     "upString1": "ay gumagana ng muli!",
     "upString2": "napabuti ang koneksyon.",
     "degradedString1": "is experiencing issues.",
@@ -14,6 +17,9 @@
     "errorMessage": "Nagkaproblema"
   },
   "fastFlagStrings": {
+    "defaultAddedMessage":"Ang FFlag(s) ay naidagdag!",
+    "defaultModifiedMessage":"Ang FFlag(s) ay nagbago!",
+    "defaultRemovedMessage":"Ang FFlags(s) ay nabura!",
     "addedString": "ay naidagdag!",
     "modifiedString": "ay nagbago!",
     "deletedString": "ay nabura!",
@@ -22,7 +28,14 @@
     "value": "Halaga:",
     "type": "Uri:"
   }, 
-  
+  "versionStrings": {
+    "defaultUpdateString": "Panibagong Bersyon ng Roblox ay Nakita!",
+    "topMessage1":"May bagong Bersyon!",
+    "topMessage2":"May bagong Bersyon ng *Client*!",
+    "topMessage3":"May bagong Bersyon ng *Booststrapper*!",
+    "oldVersion": "Lumang Bersyon:",
+    "newVersion": "Bagong Bersyon:"
+  },
   "metaStrings": {
     "name": "Tagalog"
   }
