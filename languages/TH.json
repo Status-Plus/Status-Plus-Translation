@@ -1,28 +1,42 @@
 {
-  "outageStrings": {
-    "upString1": "กลับมาใช้งานได้เเล้ว!",
-    "upString2": "ได้ทําการปรับปรุงประสิทธิภาพ",
-    "degradedString1": "กําลังได้รับการประสบปัญหา",
-    "degradedString2": "กําลังได้รับประสิทธิภาพที่ลดลง",
-    "downString1": "หยุดทํางาน",
-    "downString2": "กําลังได้รับปัญหาการหยุดทํางาน",
-    "responseTime": "เวลาในการตอบสนอง",
-    "httpCode": "รหัสสเตตัส",
-    "incidentId": "รหัสของเหตุการณ์นี้",
-    "machineId": "หมายเลขเครื่อง",
-    "responseMessage": "ข้อความที่ตอบสนอง",
-    "errorMessage": "ข้อความที่ผิดพลาด"
-  },
-  "fastFlagStrings": {
-    "addedString": "ได้ทําการเพิ่มเเล้ว!",
-    "modifiedString": "ได้ทําการเเก้ไขเเล้ว!",
-    "deletedString": "ได้ทําการลบเเล้ว!",
-    "oldValue": "ค่าเก่า:",
-    "newValue": "ค่าใหม่:",
-    "value": "ค่า:",
-    "type": "ประเภทการเเก้ไขธง:"
-  },
-  "metaStrings": {
-    "name": "Thailand"
+    "outageStrings": {
+      "defaultUpMessage":"API กลับมาทํางานแล้ว",
+      "defaultDegradedMessage":"API ประสิทธิภาพลดลง",
+      "defaultDownMessage":"API หยุดทํางาน",
+      "upString1": "กลับมาทํางานแล้ว!",
+      "upString2": "ได้ปรับปรุงประสิทธิภาพเเล้ว",
+      "degradedString1": "กำลังมีปัญหา",
+      "degradedString2": "มีประสิทธิภาพลดลง",
+      "downString1": "หยุดทํางาน",
+      "downString2": "กําลังได้รับปัญหาการหยุดทํางาน",
+      "responseTime": "เวลาในการตอบสนอง",
+      "httpCode": "รหัสสถานะ",
+      "incidentId": "รหัสเหตุการณ์",
+      "machineId": "หมายเลขเครื่อง",
+      "responseMessage": "ข้อความที่ตอบสนอง",
+      "errorMessage": "ข้อความผิดพลาด"
+    },
+    "fastFlagStrings": {
+      "defaultAddedMessage":"เพิ่ม FFlag แล้ว",
+      "defaultModifiedMessage":"FFlag ได้รับการแก้ไข",
+      "defaultRemovedMessage":"FFlag ถูกลบออก",
+      "addedString": "ได้เพิ่ม!",
+      "modifiedString": "ได้รับการแก้ไข!",
+      "deletedString": "ถูกลบไปแล้ว!",
+      "oldValue": "ค่าเก่า:",
+      "newValue": "ค่าใหม่:",
+      "value": "ค่า:",
+      "type": "ประเภท Flag:"
+    },
+    "versionStrings": {
+      "defaultUpdateString": "ตรวจพบเวอร์ชัน Roblox ใหม่!",
+      "topMessage1":"เปลี่ยนเวอร์ชั่นเเล้ว!",
+      "topMessage2":"เปลี่ยนเวอร์ชันของไคลเอ็นต์แล้ว!",
+      "topMessage3":"เปลี่ยนเวอร์ชันของ Bootstrapper แล้ว!",
+      "oldVersion": "เวอร์ชั่นเก่า:",
+      "newVersion": "เวอร์ชั่นใหม่:"
+    },
+    "metaStrings": {
+      "name": "Thailand"
+    }
   }
-}

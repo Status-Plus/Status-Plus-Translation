@@ -25,3 +25,5 @@ Portuguese Translations -      @MatadorProBr
 Indonesian Translations -      @RealEthanPlayzDev
 
 Polish Translations -          @Maginfyx & @Kiriot22
+
+Thailand Translations -        @ImFiwEditer
