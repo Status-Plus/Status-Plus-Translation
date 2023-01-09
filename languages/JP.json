@@ -1,0 +1,42 @@
+{
+  "outageStrings": {
+    "defaultUpMessage":"API(s)が復旧しました",
+    "defaultDegradedMessage":"API(s)が不安定になりました",
+    "defaultDownMessage":"API(s)が落ちました",
+    "upString1": "復旧しました",
+    "upString2": "パフォーマンスが改善されました",
+    "degradedString1": "問題が発生しています",
+    "degradedString2": "パフォーマンスが不安定です",
+    "downString1": "ダウンしました",
+    "downString2": "停止中です",
+    "responseTime": "反応時間",
+    "httpCode": "ステータス コード",
+    "incidentId": "事故ID",
+    "machineId": "RobloxのマシンID",
+    "responseMessage": "応答メッセージ",
+    "errorMessage": "エラーメッセージ"
+  },
+  "fastFlagStrings": {
+    "defaultAddedMessage":"FFlag(s)が追加されました",
+    "defaultModifiedMessage":"FFlag(s)が変更されました",
+    "defaultRemovedMessage":"FFlag(s)が削除されました",
+    "addedString": "追加されました",
+    "modifiedString": "変更されました",
+    "deletedString": "削除されました",
+    "oldValue": "古い値:",
+    "newValue": "新しい値:",
+    "value": "値:",
+    "type": "タイプ:"
+  },
+  "versionStrings": {
+    "defaultUpdateString": "新しいRobloxバージョンが検出されました!",
+    "topMessage1":"バージョンが変わりました",
+    "topMessage2":"クライアントのバージョンが変わりました",
+    "topMessage3":"チェック用プログラムのバージョンが変わりました",
+    "oldVersion": "古いバージョン:",
+    "newVersion": "新しいバージョン:"
+  },
+  "metaStrings": {
+    "name": "Japanese"
+  }
+}
